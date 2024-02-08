@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "onyx-badge-405410",
+  "private_key_id": "8dc308e479bfff29a12b821ae5e7415fec8902fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC6ZS9t/38OGIaJ\nDzCSs+XS09OiORuAL8bTm8/GiIkQQaqa6CiaN4otMAB41Q1m3guQccycPR9eaQRA\n9phXfi2pD7r5+VX4w+Itn0ZE8sN6nqHNhJqT/MYLG55d/Rcbvmk6FwXfI6UA9RXd\nPIw4Dip602OXItyYPSFRbqxjBdpkXIZh17jlxyRjzv3FNS1D/B8kjg3pRe1MZVQn\nGnleaYoyX2rFHe8TMlDD6u/yQ/m2SnyoO9N1jrSrNlsxO8cKoqjDNvicSIC/7q0m\nykg+kS3PK4IVMJnj7YzqYBVBFCGyeGmnhFAQYUfyb240KYjDCxa40Nh0sr1Gtltn\n2JUDKiZlAgMBAAECggEAGATygfj+6TTZX1+c+YajqtGfr8OuqsvdUgb91R5ilTz1\nDG22z7qw/GY3ZVrFFZivAk/b11VcDbk4MlvkoT+yCBtuE4jhHoO1iX4BGuDytkIr\nZRW9qqzT43oNZBy5ZdqZakItwEWyXWd3yBDlm9KdgELtzjvQk/Cqsrjxj3ghXrXC\nTqahmAwb9Tl9FFKj0TnWgEZ9Y+qPVDj/A6l3AM4jdw2so5onzIDQdGh+JBGrKaPA\nVQRhBQxMCtymWxaQ7JCuCtNLU10d8vGbCBKMH0+t4pe3pW2XZpAHCadFH7lVKWDm\nHywL8w1aA8M8+8uF8mbqpo2wiL6TajVAT5kbombjKQKBgQDfH13nnfhUmtv2NwtP\nuNM01Tb1dAcIqfcBTDJaE7UI5tgNZLk7i1/RaGW4ojnYhBMOgoShDpff4Xm9yz/X\nVjwBo589Q3frQbWwF05De4ZcQbN9fNk0adb6hK62Yyl66EGRzNftFcrpo183XXp2\nVlvAKyv2Z2+I6C89eVQpMEcKmQKBgQDV3GQ2TteE1XKL8e6J7+Zo0y+6rije9Rl6\nbm7CcVt5t/QqxLKIXDTF7zD1upR8Yhc9I22ceCB4hqIjMyq7RFihPhepr1RcG+Da\nwYwvQ81kH1TVJLaVhpgr7yUauUElMDM8ZmFji1KEvfxYHwSP6iWE141AX1TTodcS\n/ko+YmsFrQKBgQCLVkxPW5B8TWU2InPW6mZDZS94I2hNGc9eKRZ8uDfjAj5ERvWC\nYOyKmraDkhOryfcYpZtr9PAVaPqc8vPAZ2L75xGHsb2O1i8/c551eAuVS5ZqtG/0\nUnBlbDyrO8vorGheQ91IesaIF3Vb3u2ePxn3LT68FyZJCi6OJlnPiw2iaQKBgQDS\ntJPflgpti8eR7kmxibWfrgMmkJUgJqh1ofxqgzk3UXC1+ppUE1TDd4jrcmr9qb9v\ns0o5kXmchjmVKMJ/QzV3mC/ENUSOg8EkhvFRWCIy9VOltMhXxgaDstkB3Wg79aNl\nbRGi/A/PTUgkolriWDWjDqTSuZpf8OJwii4oDNuY+QKBgQC7uUQA8OmfrgFVX0zX\nn94u+bg3FwGLp1pnmbEeomkGGl6foD4rFZudINgmo6L+YyMBu5EhU1o5wOrXP4Mj\nUJUpmPXRJse3Y8OodutvSffe9Tr2W1lXutvJeGWbvTuLMOXqOwM57RiwNaUQgMW0\ncxTDgaSIfHeON7L2afq4JDozDg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "uploadfiles@onyx-badge-405410.iam.gserviceaccount.com",
+  "client_id": "105725614347886309698",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uploadfiles%40onyx-badge-405410.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
